@@ -7,4 +7,7 @@ public class colaborador {
     public void Commit2(){
         System.out.println("2º cambio");
     }
+    public void Commit3(){
+        System.out.println("3er cambio");
+    }
 }
